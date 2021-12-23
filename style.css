@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding-top: 100px;
+    background: linear-gradient(to right top, #65dfc9, #6cdbeb) fixed;
+}
+
+.submit-area{
+    padding: 30px;
+    margin-top: 50px;
+    color: white;
+    background: linear-gradient(to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.3)
+    );
+    border-radius: 2rem;
+}
+
+#account-area{
+    margin-top: 5%;
+}
+
+.deposit {
+    background-color: slateblue;
+}
+
+.withdraw {
+    background-color: lightsalmon;
+}
+
+.balance {
+    background-color: tomato;
+}
+
+.status{
+    margin: 0 20px;
+    color: white;
+    padding: 20px;
+    background: linear-gradient(to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.3)
+    );
+    border-radius: 2rem;
+}
+
+.btn{
+    background: linear-gradient(to right top, #65dfc9, #6cdbeb) fixed;
+    border: none;
+    border-radius: 2rem;
+    
+}
+
+.form{
+    background: linear-gradient(to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.3)
+    );
+    border: none;
+    width: 50%;
+    padding: 0.5rem;
+    border-radius: 2rem;
+}
